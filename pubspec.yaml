@@ -1,0 +1,16 @@
+name: flutter_page_button_sample
+description: A new Flutter project.
+version: 1.0.0+1
+
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+flutter:
+  uses-material-design: true
